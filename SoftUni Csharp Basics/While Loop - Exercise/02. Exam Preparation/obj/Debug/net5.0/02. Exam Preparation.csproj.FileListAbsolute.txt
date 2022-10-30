@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.exe
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.deps.json
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.runtimeconfig.json
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.runtimeconfig.dev.json
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\ref\02. Exam Preparation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.pdb
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.AssemblyInfo.cs
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\ref\02. Exam Preparation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.pdb
+C:\Users\memor\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.genruntimeconfig.cache

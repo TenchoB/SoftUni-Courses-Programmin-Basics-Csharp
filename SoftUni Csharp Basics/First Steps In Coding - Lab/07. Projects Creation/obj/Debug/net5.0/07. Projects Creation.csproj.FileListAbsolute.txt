@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.exe
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.deps.json
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.runtimeconfig.json
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.runtimeconfig.dev.json
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.dll
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\bin\Debug\net5.0\ref\07. Projects Creation.dll
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.pdb
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.AssemblyInfo.cs
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.dll
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\ref\07. Projects Creation.dll
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.pdb
+C:\Users\memor\source\repos\05. Greeting by Name\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.genruntimeconfig.cache

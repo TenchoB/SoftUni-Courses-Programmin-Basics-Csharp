@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\bin\Debug\net5.0\02. Radians to Degrees.exe
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\bin\Debug\net5.0\02. Radians to Degrees.deps.json
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\bin\Debug\net5.0\02. Radians to Degrees.runtimeconfig.json
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\bin\Debug\net5.0\02. Radians to Degrees.runtimeconfig.dev.json
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\bin\Debug\net5.0\02. Radians to Degrees.dll
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\bin\Debug\net5.0\ref\02. Radians to Degrees.dll
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\bin\Debug\net5.0\02. Radians to Degrees.pdb
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.AssemblyInfo.cs
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.dll
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\ref\02. Radians to Degrees.dll
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.pdb
+C:\Users\memor\source\repos\01. USD to BGN\02. Radians to Degrees\obj\Debug\net5.0\02. Radians to Degrees.genruntimeconfig.cache

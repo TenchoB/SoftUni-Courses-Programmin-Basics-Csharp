@@ -1,0 +1,15 @@
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.exe
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.deps.json
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.runtimeconfig.json
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.runtimeconfig.dev.json
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.dll
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net5.0\ref\06. Cinema Tickets.dll
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.pdb
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.AssemblyInfo.cs
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.dll
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\ref\06. Cinema Tickets.dll
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.pdb
+C:\Users\memor\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.genruntimeconfig.cache

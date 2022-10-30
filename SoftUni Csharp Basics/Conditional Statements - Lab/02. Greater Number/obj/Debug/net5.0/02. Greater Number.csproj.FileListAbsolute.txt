@@ -1,0 +1,15 @@
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.exe
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.deps.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.dev.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\net5.0\ref\02. Greater Number.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.pdb
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfo.cs
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\ref\02. Greater Number.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.pdb
+C:\Users\memor\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.genruntimeconfig.cache

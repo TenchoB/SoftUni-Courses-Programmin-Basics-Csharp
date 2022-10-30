@@ -1,0 +1,15 @@
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.exe
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.deps.json
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.runtimeconfig.json
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.runtimeconfig.dev.json
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.dll
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\ref\04. Sum of Two Numbers.dll
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.pdb
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.dll
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\ref\04. Sum of Two Numbers.dll
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.pdb
+C:\Users\memor\source\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.genruntimeconfig.cache

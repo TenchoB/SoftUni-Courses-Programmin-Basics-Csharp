@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.exe
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.deps.json
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.json
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.dll
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\bin\Debug\net5.0\ref\09. Yard Greening.dll
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.pdb
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfo.cs
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.dll
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\ref\09. Yard Greening.dll
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.pdb
+C:\Users\memor\source\repos\05. Greeting by Name\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.exe
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.deps.json
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.runtimeconfig.json
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.runtimeconfig.dev.json
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.dll
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\bin\Debug\net5.0\ref\06. Concatenate Data.dll
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.pdb
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.AssemblyInfo.cs
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.dll
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\ref\06. Concatenate Data.dll
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.pdb
+C:\Users\memor\source\repos\05. Greeting by Name\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.genruntimeconfig.cache

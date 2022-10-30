@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\bin\Debug\net5.0\05. Supplies for School.exe
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\bin\Debug\net5.0\05. Supplies for School.deps.json
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\bin\Debug\net5.0\05. Supplies for School.runtimeconfig.json
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\bin\Debug\net5.0\05. Supplies for School.runtimeconfig.dev.json
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\bin\Debug\net5.0\05. Supplies for School.dll
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\bin\Debug\net5.0\ref\05. Supplies for School.dll
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\bin\Debug\net5.0\05. Supplies for School.pdb
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.AssemblyInfo.cs
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.dll
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\ref\05. Supplies for School.dll
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.pdb
+C:\Users\memor\source\repos\01. USD to BGN\05. Supplies for School\obj\Debug\net5.0\05. Supplies for School.genruntimeconfig.cache

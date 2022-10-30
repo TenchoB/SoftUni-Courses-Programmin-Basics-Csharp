@@ -1,0 +1,15 @@
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.exe
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.deps.json
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.runtimeconfig.json
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.runtimeconfig.dev.json
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.dll
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\bin\Debug\net5.0\ref\07. Moving.dll
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.pdb
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.AssemblyInfo.cs
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.dll
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\ref\07. Moving.dll
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.pdb
+C:\Users\memor\source\repos\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.genruntimeconfig.cache

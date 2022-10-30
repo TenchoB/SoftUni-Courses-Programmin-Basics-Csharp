@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.exe
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.deps.json
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.runtimeconfig.json
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.runtimeconfig.dev.json
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.dll
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\bin\Debug\net5.0\ref\09. Fish Tank.dll
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.pdb
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.AssemblyInfo.cs
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.dll
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\ref\09. Fish Tank.dll
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.pdb
+C:\Users\memor\source\repos\01. USD to BGN\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.genruntimeconfig.cache

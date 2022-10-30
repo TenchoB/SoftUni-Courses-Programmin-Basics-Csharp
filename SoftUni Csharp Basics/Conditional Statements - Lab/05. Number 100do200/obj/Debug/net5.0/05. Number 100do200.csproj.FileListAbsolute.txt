@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\bin\Debug\net5.0\05. Number 100do200.exe
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\bin\Debug\net5.0\05. Number 100do200.deps.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\bin\Debug\net5.0\05. Number 100do200.runtimeconfig.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\bin\Debug\net5.0\05. Number 100do200.runtimeconfig.dev.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\bin\Debug\net5.0\05. Number 100do200.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\bin\Debug\net5.0\ref\05. Number 100do200.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\bin\Debug\net5.0\05. Number 100do200.pdb
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.AssemblyInfo.cs
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\ref\05. Number 100do200.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.pdb
+C:\Users\memor\source\repos\Conditional Statements - Lab\05. Number 100do200\obj\Debug\net5.0\05. Number 100do200.genruntimeconfig.cache

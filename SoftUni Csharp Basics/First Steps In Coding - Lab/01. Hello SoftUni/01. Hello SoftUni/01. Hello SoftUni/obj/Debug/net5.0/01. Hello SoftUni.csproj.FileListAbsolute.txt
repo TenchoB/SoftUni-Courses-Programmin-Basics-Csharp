@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.exe
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.deps.json
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.runtimeconfig.json
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.runtimeconfig.dev.json
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.dll
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\bin\Debug\net5.0\ref\01. Hello SoftUni.dll
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.pdb
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.AssemblyInfo.cs
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.dll
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\ref\01. Hello SoftUni.dll
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.pdb
+D:\Visiul Studio projects\01. Hello SoftUni\01. Hello SoftUni\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.genruntimeconfig.cache

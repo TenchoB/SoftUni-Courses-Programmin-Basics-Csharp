@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.exe
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.deps.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.runtimeconfig.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.runtimeconfig.dev.json
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net5.0\ref\01. Excellent Result.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.pdb
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.AssemblyInfo.cs
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\ref\01. Excellent Result.dll
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.pdb
+C:\Users\memor\source\repos\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.genruntimeconfig.cache

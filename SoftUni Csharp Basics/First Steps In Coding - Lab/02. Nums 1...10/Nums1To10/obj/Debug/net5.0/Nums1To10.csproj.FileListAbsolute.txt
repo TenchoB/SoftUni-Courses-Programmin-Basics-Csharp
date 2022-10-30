@@ -1,0 +1,15 @@
+D:\Visiul Studio projects\Nums1To10\Nums1To10\bin\Debug\net5.0\Nums1To10.exe
+D:\Visiul Studio projects\Nums1To10\Nums1To10\bin\Debug\net5.0\Nums1To10.deps.json
+D:\Visiul Studio projects\Nums1To10\Nums1To10\bin\Debug\net5.0\Nums1To10.runtimeconfig.json
+D:\Visiul Studio projects\Nums1To10\Nums1To10\bin\Debug\net5.0\Nums1To10.runtimeconfig.dev.json
+D:\Visiul Studio projects\Nums1To10\Nums1To10\bin\Debug\net5.0\Nums1To10.dll
+D:\Visiul Studio projects\Nums1To10\Nums1To10\bin\Debug\net5.0\ref\Nums1To10.dll
+D:\Visiul Studio projects\Nums1To10\Nums1To10\bin\Debug\net5.0\Nums1To10.pdb
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\Nums1To10.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\Nums1To10.AssemblyInfo.cs
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\Nums1To10.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\Nums1To10.dll
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\ref\Nums1To10.dll
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\Nums1To10.pdb
+D:\Visiul Studio projects\Nums1To10\Nums1To10\obj\Debug\net5.0\Nums1To10.genruntimeconfig.cache

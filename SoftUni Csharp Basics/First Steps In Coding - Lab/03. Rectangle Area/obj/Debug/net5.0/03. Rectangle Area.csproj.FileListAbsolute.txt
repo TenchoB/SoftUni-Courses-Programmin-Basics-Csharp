@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.exe
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.deps.json
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.runtimeconfig.json
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.runtimeconfig.dev.json
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.dll
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\bin\Debug\net5.0\ref\03. Rectangle Area.dll
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.pdb
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.AssemblyInfo.cs
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.dll
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\ref\03. Rectangle Area.dll
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.pdb
+D:\Visiul Studio projects\SoftUni Csharp Basics\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.genruntimeconfig.cache

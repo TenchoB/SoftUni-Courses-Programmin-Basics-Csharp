@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.exe
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.deps.json
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.runtimeconfig.json
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.runtimeconfig.dev.json
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.dll
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\bin\Debug\net5.0\ref\04. Vacation Books List.dll
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.pdb
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.AssemblyInfo.cs
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.dll
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\ref\04. Vacation Books List.dll
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.pdb
+C:\Users\memor\source\repos\01. USD to BGN\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\bin\Debug\net5.0\04. Workout.exe
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\bin\Debug\net5.0\04. Workout.deps.json
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\bin\Debug\net5.0\04. Workout.runtimeconfig.json
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\bin\Debug\net5.0\04. Workout.runtimeconfig.dev.json
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\bin\Debug\net5.0\04. Workout.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\bin\Debug\net5.0\ref\04. Workout.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\bin\Debug\net5.0\04. Workout.pdb
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.AssemblyInfo.cs
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\ref\04. Workout.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.pdb
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\04. Workout\obj\Debug\net5.0\04. Workout.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\bin\Debug\net5.0\03. Final Competition.exe
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\bin\Debug\net5.0\03. Final Competition.deps.json
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\bin\Debug\net5.0\03. Final Competition.runtimeconfig.json
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\bin\Debug\net5.0\03. Final Competition.runtimeconfig.dev.json
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\bin\Debug\net5.0\03. Final Competition.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\bin\Debug\net5.0\ref\03. Final Competition.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\bin\Debug\net5.0\03. Final Competition.pdb
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.AssemblyInfo.cs
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\ref\03. Final Competition.dll
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.pdb
+C:\Users\memor\source\repos\Programming Basics Online Pre - Exam - 18 and 19 June 2022\03. Final Competition\obj\Debug\net5.0\03. Final Competition.genruntimeconfig.cache

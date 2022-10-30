@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.exe
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.deps.json
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.runtimeconfig.json
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.runtimeconfig.dev.json
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.dll
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\bin\Debug\net5.0\ref\03. Deposit Calculator.dll
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.pdb
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.AssemblyInfo.cs
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.dll
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\ref\03. Deposit Calculator.dll
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.pdb
+C:\Users\memor\source\repos\01. USD to BGN\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.genruntimeconfig.cache

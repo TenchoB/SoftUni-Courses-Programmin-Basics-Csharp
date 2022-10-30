@@ -1,0 +1,15 @@
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.exe
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.deps.json
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.runtimeconfig.json
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.runtimeconfig.dev.json
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.dll
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\bin\Debug\net5.0\ref\07. Food Delivery.dll
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.pdb
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.AssemblyInfo.cs
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.dll
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\ref\07. Food Delivery.dll
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.pdb
+C:\Users\memor\source\repos\01. USD to BGN\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.genruntimeconfig.cache

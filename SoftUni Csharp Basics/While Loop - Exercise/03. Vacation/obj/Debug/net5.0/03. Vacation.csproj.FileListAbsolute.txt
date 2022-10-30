@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.exe
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.deps.json
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.json
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.dev.json
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\ref\03. Vacation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.pdb
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfo.cs
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\ref\03. Vacation.dll
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.pdb
+C:\Users\memor\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.genruntimeconfig.cache

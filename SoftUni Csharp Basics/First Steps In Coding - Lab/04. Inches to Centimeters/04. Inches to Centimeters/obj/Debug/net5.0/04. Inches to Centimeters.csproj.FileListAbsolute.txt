@@ -1,0 +1,16 @@
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.exe
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.deps.json
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.dll
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\net5.0\ref\04. Inches to Centimeters.dll
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.pdb
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.AssemblyReference.cache
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.dll
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\ref\04. Inches to Centimeters.dll
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.pdb
+C:\Users\memor\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.genruntimeconfig.cache
